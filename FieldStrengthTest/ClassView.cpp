@@ -3,6 +3,7 @@
 //add by bzw 161219//test git hub
 //add by bzw 161219//test git hub
 //add by bzw 161219//test git hub
+//this branch is prepared for the master
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
