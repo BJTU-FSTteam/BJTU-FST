@@ -1,4 +1,8 @@
-
+//add by bzw 161219//test git hub
+//add by bzw 161219//test git hub
+//add by bzw 161219//test git hub
+//add by bzw 161219//test git hub
+//add by bzw 161219//test git hub
 #include "stdafx.h"
 #include "MainFrm.h"
 #include "ClassView.h"
